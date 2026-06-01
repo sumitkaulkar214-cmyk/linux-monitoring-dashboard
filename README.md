@@ -134,15 +134,15 @@ Notification Channels:
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### Prometheus
 
-![Prometheus](screenshots/prometheus.png)
+![Prometheus](screenshots/prometheus.png.png)
 
 ### Alerts
 
-![Alerts](screenshots/alerts.png)
+![Alerts](screenshots/alerts.png.png)
 
 ---
 
